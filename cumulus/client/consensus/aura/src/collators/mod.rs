@@ -21,4 +21,5 @@
 //! builds on parachain blocks which have not yet been included in the relay chain.
 
 pub mod basic;
+pub mod basic_extended;
 pub mod lookahead;
